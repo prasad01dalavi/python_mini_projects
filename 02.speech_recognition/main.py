@@ -11,6 +11,3 @@ try:
 except:
     print('Error occurred!')
     pass
-
-pip install SpeechRecognition
-pip install pyaudio
